@@ -12,7 +12,7 @@ Lab compu ll
 
 :octocat:
 
-:1+:
+:+1:
 :sparkles:
 
 Link del proyecto: [Aula virtual de lab compu 2](https://campusvirtual.ucc.edu.ar/course/view.php?id=4429)
